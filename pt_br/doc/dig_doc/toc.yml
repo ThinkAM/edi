@@ -1,0 +1,18 @@
+- name: O que é a Digitação de Documentos  
+  href: intro_dig.md
+  
+- name: Digitação da Nota Fiscal
+  href: nota.md
+   
+- name: Digitação do Documento de Cobrança
+  href: cob.md
+  
+- name: Digitação do Status de Transporte
+  href: transp.md
+    
+- name: Digitação do Conhecimento de Transporte
+  href: conhec.md
+    
+- name: Digitação de Disponibilidade de Vendas
+  href: vendas.md  
+  

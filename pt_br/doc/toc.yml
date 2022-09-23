@@ -1,0 +1,39 @@
+- name: Página Inicial Integração de Documentos (EDI)
+  href: ~/products/list/edi/pt_br/edi.html  
+  
+- name: Introdução
+  href: intro.md
+   
+- name: Como Acessar o WebEDI
+  href: acesso.md
+  
+- name: Caixas de Entrada e Saída
+  href: caixa.md
+
+- name: Meus Documentos
+  href: meus_docs.md
+    
+- name: Visualização dos Documentos Trafegados
+  href: visualizar.md
+  
+- name: Enviando Documentos Manualmente
+  href: envio.md
+
+- name: Digitação de Documentos
+  href: dig_doc/toc.yml
+  topicHref: dig_doc/intro_dig.md
+  
+- Name: Configurando Meu WebEDI
+  href: meu_webedi/toc.yml
+  topicHref: meu_webedi/preferencias.md
+
+- name: Solicitações de Novas Conexões de HUB
+  href: solic/toc.yml
+  topicHref: solic/introd.md
+  
+- name: Vídeos de Treinamento
+  href: videos/toc.yml
+  topicHref: videos/intro.md
+
+- name: Open-up
+  href: open_up/edi_videos_open_up_pt.md

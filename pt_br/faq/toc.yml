@@ -1,0 +1,8 @@
+- name: Página Inicial Integração de Documentos (EDI)
+  href: ~/products/list/edi/pt_br/edi.html
+
+- name: Consultar documentos no Portal Neogrid 
+  href: faq_consulta.md
+
+- name: Documentos Recebidos 
+  href: faq_meus_docs.md
